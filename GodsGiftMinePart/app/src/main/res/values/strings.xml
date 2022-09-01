@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">God\'s Gift Mine Part</string>
+    <string name="donation_details">Donation Details</string>
+    <string name="first_name">First Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="permanant_address">Permanant Address</string>
+    <string name="city">City</string>
+    <string name="name">Name</string>
+    <string name="state">State</string>
+    <string name="pincode">Pincode</string>
+    <string name="phone_no">Phone No</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="description">Description</string>
+    <string name="give_regular">Give Regular</string>
+    <string name="give_now">GIVE NOW</string>
+    <string name="would_like_to_give_regularly">Would Like to Give Regularly.</string>
+    <string name="contact_us">Contact Us ()</string>
+    <string name="your_details_are">Your Details Are</string>
+    <string name="thanks_for_your_support">Thanks for your support</string>
+    <string name="donate_again">Donate Again</string>
+</resources>
